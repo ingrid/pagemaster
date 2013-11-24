@@ -1,0 +1,14 @@
+* Cost of assorted things:
+  * Conductive Ink:
+    5 X 10 ml tubular copper pens - 25 Euro (
+    50 mL tun of conductive copper paint - 18 Euro
+    10 mL silver conductive pens - Varies with silver prices, between $8 - $20 per pen
+
+* Materials used in Electronic Popables (via http://web.mit.edu/~jieqi/Public/DREU_Site/)
+  - conductive ink
+  - cardstock
+  - glue/tape
+  - velcro
+  - surface mount leds
+  - magnetic arduinos- I believe this is custom,
+  - memory-shape alloy

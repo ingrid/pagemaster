@@ -1,0 +1,94 @@
+* Longterm goals:
+  - Learn about circuits.
+
+* Class 1:
+  * Goals:
+      - Learn about the natural flow of electricity, and how we can direct it
+        using circuits.
+      - Get familiar with some of the components we will be using
+        (LEDs, batteries).
+  * Plan:
+    - Introductions, names, etc
+    * This video to introduce the long term goals of the class
+      http://youtu.be/AI-6wMlaVTc
+    - Discuss the video, see what parts of the video the would like to emulate.
+    * Introduce basic concepts involved in a circuit
+      - power source
+      - draw (LED)
+      - polarity/flow of electricity
+      - short circuit/open circuit
+      - maybe a switch?
+    * Project:  LED Throwies
+      * Components:
+        - 1 or more LED: $0.20 each
+        - 1 or more 3v Coin Cell Battery: $0.25 each
+        - Tape: ???
+        - Maybe some paper.
+      The students should be able to take these home afterwards.
+      This video shows some interesting uses for throwies, but also kinda encourages throwing them at random things…
+
+* Class 2:
+  * Goals:
+    Get started with conductive ink, learn about electricity flow in variousconfigurations.
+  * Plan:
+    * This video to introduce conductive ink, explain it’s what was used to power the pop-up book shown in the first class.
+      http://youtu.be/GarBZhZnFQs
+    * Project: Simple LED Paper Circuit
+      * Components:
+      - Draw the single LED circuit from the first class on card (no connectionsyet, just hold the LED to the ink).
+      * Discuss various ways to create a more permanent connection betweenthe ink and the components.
+          Soldering
+          Cold solder with ink
+          Copper tape
+          Metal bits (croc head clips, paper clips, stripped wire
+      - Permanently connect existing components in the circuit.
+      * Extend the existing circuit with extra LEDs.
+          Wiring components in series
+          Wiring components in parallel
+          Multi loop circuit layout
+          As a separate circuit feeding off the same source
+      - Add in additional LEDs
+      - We could possibly turn this into a really simple card project so they
+        have something interesting to take home, but I would recommend giving
+        them only 5 or so minutes to sketch a basic design beforehand and layout
+        where they would like their leds, then saving all the coloring/serious
+        arts and crafts until after all the circuitry is complete, as there’is a
+        lot of material to work though. A card project could also be split,
+        across two classes so that only only one LED is talked about in the
+        first class, then a multi component circuits are introduced in the
+        second class.
+
+* Class 3:
+  - Goals:
+      Now that we have learned about circuit design with only LEDs begin
+  - Plans:
+
+* Class 4:
+  - Goals:
+
+  - Plans:
+
+* Class 5:
+  - Goals:
+
+  - Plans:
+* Class 6:
+  - Goals:
+
+  - Plans:
+* Class 7:
+  - Goals:
+
+  - Plans:
+
+* Class 8:
+  - Goals:
+
+  - Plans:
+* Class 9:
+  - Goals:
+
+  - Plans:
+
+* Class 10:
+  Field trip!
