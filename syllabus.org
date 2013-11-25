@@ -1,5 +1,6 @@
 * Longterm goals:
-  - Learn about circuits.
+  - Learn about electricity and circut design.
+  - Learn how to prototype and implement circuts using paper as a medium.
 
 * Class 1:
   * Goals:
@@ -9,8 +10,7 @@
         (LEDs, batteries).
   * Plan:
     - Introductions, names, etc
-    * This video to introduce the long term goals of the class
-      http://youtu.be/AI-6wMlaVTc
+    - [[http://youtu.be/AI-6wMlaVTc][This video]] to introduce the long term goals of the class
     - Discuss the video, see what parts of the video the would like to emulate.
     * Introduce basic concepts involved in a circuit
       - power source
@@ -19,34 +19,56 @@
       - short circuit/open circuit
       - maybe a switch?
     * Project:  LED Throwies
-      * Components:
-        - 1 or more LED: $0.20 each
-        - 1 or more 3v Coin Cell Battery: $0.25 each
-        - Tape: ???
-        - Maybe some paper.
-      The students should be able to take these home afterwards.
-      This video shows some interesting uses for throwies, but also kinda encourages throwing them at random things…
+      * Componenets:
+
+        |------------------------+------------+------|
+        | Item                   | Cost       | Link |
+        |------------------------+------------+------|
+        | LEDs                   | $0.20 each |      |
+        | 3v Coin Cell Batteries | $0.25 each |      |
+        | Tape                   |            |      |
+        | Paper                  |            |      |
+        |------------------------+------------+------|
+
+        - Should total at less than $3 per student to make a handful of
+          throwies each, with and without switches.
+      - The students should be able to take these home afterwards.
+      - [[http://youtu.be/GAriT4B-gkA][This video]] shows some interesting uses
+        for throwies, but also kinda encourages throwing them at random things.
 
 * Class 2:
   * Goals:
-    Get started with conductive ink, learn about electricity flow in variousconfigurations.
+    Get started with conductive ink, learn about electricity flow in various
+    circut configurations.
   * Plan:
-    * This video to introduce conductive ink, explain it’s what was used to power the pop-up book shown in the first class.
-      http://youtu.be/GarBZhZnFQs
+    * [[http://youtu.be/GarBZhZnFQs][This video]] to introduce conductive ink, explain it’s what was used to
+      power the pop-up book shown in the first class.
     * Project: Simple LED Paper Circuit
       * Components:
-      - Draw the single LED circuit from the first class on card (no connectionsyet, just hold the LED to the ink).
-      * Discuss various ways to create a more permanent connection betweenthe ink and the components.
-          Soldering
-          Cold solder with ink
-          Copper tape
-          Metal bits (croc head clips, paper clips, stripped wire
+
+        |--------------------+------+------|
+        | Item               | Cost | Link |
+        |--------------------+------+------|
+        | Conductive Ink Pen | $10  |      |
+        | Surface Mount LED  |      |      |
+        |                    |      |      |
+        |--------------------+------+------|
+
+      - Draw the single LED circuit from the first class on card (no connections
+        yet, just hold the LED to the ink).
+      * Discuss various ways to create a more permanent connection between the
+        ink and the components.
+        - soldering
+        - cold solder with ink
+        - copper tape
+        - metal bits (croc head clips, paper clips, stripped wire)
+        - non-conductive method
       - Permanently connect existing components in the circuit.
       * Extend the existing circuit with extra LEDs.
-          Wiring components in series
-          Wiring components in parallel
-          Multi loop circuit layout
-          As a separate circuit feeding off the same source
+        - wiring components in series
+        - wiring components in parallel
+        - multi loop circuit layout
+        - As a separate circuit feeding off the same source
       - Add in additional LEDs
       - We could possibly turn this into a really simple card project so they
         have something interesting to take home, but I would recommend giving
@@ -60,35 +82,100 @@
 
 * Class 3:
   - Goals:
-      Now that we have learned about circuit design with only LEDs begin
+    - Now that we have learned about circuit design with only LEDs, we will
+      begin introducing new components, specifically a sound microcontroller.
   - Plans:
+    * Project:
+      * Components
+
+        |------+------+------|
+        | Item | Cost | Link |
+        |------+------+------|
+        |      |      |      |
+        |------+------+------|
+
 
 * Class 4:
   - Goals:
-
+    Discuss storybook/card idea, start planning the project and sketching things
+    out.
   - Plans:
+    * Project:
+      * Components
+
+        |------+------+------|
+        | Item | Cost | Link |
+        |------+------+------|
+        |      |      |      |
+        |------+------+------|
 
 * Class 5:
   - Goals:
 
   - Plans:
+    * Project:
+      * Components
+
+        |------+------+------|
+        | Item | Cost | Link |
+        |------+------+------|
+        |      |      |      |
+        |------+------+------|
+
+
 * Class 6:
   - Goals:
 
   - Plans:
+    * Project:
+      * Components
+
+        |------+------+------|
+        | Item | Cost | Link |
+        |------+------+------|
+        |      |      |      |
+        |------+------+------|
+
+
 * Class 7:
   - Goals:
 
   - Plans:
+    * Project:
+      * Components
+
+        |------+------+------|
+        | Item | Cost | Link |
+        |------+------+------|
+        |      |      |      |
+        |------+------+------|
 
 * Class 8:
   - Goals:
 
   - Plans:
+    * Project:
+      * Components
+
+        |------+------+------|
+        | Item | Cost | Link |
+        |------+------+------|
+        |      |      |      |
+        |------+------+------|
+
 * Class 9:
   - Goals:
-
+    Bind and seal story books, have the students share their story books with
+    one another.
   - Plans:
+    * Project:
+      * Components
+
+        |------+------+------|
+        | Item | Cost | Link |
+        |------+------+------|
+        |      |      |      |
+        |------+------+------|
 
 * Class 10:
   Field trip!
