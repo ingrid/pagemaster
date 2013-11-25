@@ -18,14 +18,14 @@
       - polarity/flow of electricity
       - short circuit/open circuit
       - maybe a switch?
-    * Project:  LED Throwies
+    * Project:  [[http://www.instructables.com/id/LED-Throwies/][LED Throwies]]
       * Componenets:
 
         |------------------------+------------+------|
         | Item                   | Cost       | Link |
         |------------------------+------------+------|
-        | LEDs                   | $0.20 each |      |
-        | 3v Coin Cell Batteries | $0.25 each |      |
+        | LEDs                   | $0.20 each | [[http://www.hebeiltd.com.cn/?p=leds.9.10mm][x]]    |
+        | 3v Coin Cell Batteries | $0.25 each | [[http://www.cheap-batteries.com/cn.html][x]]    |
         | Tape                   |            |      |
         | Paper                  |            |      |
         |------------------------+------------+------|
